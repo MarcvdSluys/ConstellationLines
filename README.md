@@ -21,14 +21,14 @@ multiple data lines in this file.
 
 
 ## Column descriptions
-1. Latin constellation abbreviation;
-2. number of stars to draw lines between;
-3. (rest of the columns) BSC numbers for those stars (1-9110).
+1. Latin constellation abbreviation (`%3s`);
+2. number of stars to draw lines between = number of numbers following on this line (`%2d`);
+3. (rest of the columns) BSC numbers for those stars (1-9110) (`%4d` each).
 
 
 
 ## Copyright
-Copyright (c) 2005, Marc van der Sluys, [hemel.waarnemen.com](http://hemel.waarnemen.com).
+Copyright (c) 2005-2014, Marc van der Sluys, [hemel.waarnemen.com](http://hemel.waarnemen.com).
 
 
 ## Licence

@@ -1,9 +1,7 @@
-# BSC stars to be connected in order to draw the constellations for http://hemel.waarnemen.com
-# Note that each data line is used to draw one single line on the map, sometimes retracing without 'taking the pen off the map'
-# Also note that some constellations (e.g. Cru) cannot be drawn using only one line, and have multiple data lines in this file
-# Column description: Latin constellation abbreviation, number of stars involved, BSC numbers for those stars (1-9110)
-#
-# Copyright (c) 2005-2014, Marc van der Sluys - http://hemel.waarnemen.com
+# ConstellationLines.dat: lists of BSC stars to connect in order to draw the constellations.
+# Licence: Creative commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/)
+# Source and documentation: https://github.com/hemel-waarnemen-com/Constellation-lines
+# Copyright (c) 2005-2020, Marc van der Sluys - http://hemel.waarnemen.com
 
 And  20 8961 8976 8965 8762 8965   68  165   15  165  163  215  163  165  337  603  337  464  337  269  226
 Ant   4 4273 4104 3871 3765

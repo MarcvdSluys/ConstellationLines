@@ -20,7 +20,7 @@ the pen off the map'.  Note that some constellations (e.g. Cru) cannot be drawn 
 multiple data lines in this file.
 
 
-## Column descriptions
+### Column descriptions
 1. Latin constellation abbreviation (`%3s`);
 2. number of stars to draw lines between = number of numbers following on this line (`%2d`);
 3. (rest of the columns) BSC numbers for those stars (1-9110) (`%4d` each).
@@ -28,7 +28,7 @@ multiple data lines in this file.
 
 
 ## Copyright
-Copyright (c) 2005-2014, Marc van der Sluys, [hemel.waarnemen.com](http://hemel.waarnemen.com).
+Copyright (c) 2005-2020, Marc van der Sluys, [hemel.waarnemen.com](http://hemel.waarnemen.com).
 
 
 ## Licence

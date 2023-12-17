@@ -21,15 +21,17 @@ multiple data lines in this file.
 3. (rest of the columns) BSC numbers for those stars (1-9110) (~%4d~ each).
 
    
-* Copyright
+* Copyright and citation
 Copyright (c) 2005-2020, Marc van der Sluys, [[http://hemel.waarnemen.com][hemel.waarnemen.com]].
+
+[[file:pics/doi-10.5281-zenodo-10397197.png]]
 
 
 * Licence
 The data can be used under the terms of the Creative Commons [[https://creativecommons.org/licenses/by/4.0/][Attribution 4.0 International]] (CC BY 4.0)
 licence.
 
-[[file:CC-BY-4.0_88x31.png]]
+[[file:pics/CC-BY-4.0_88x31.png]]
 
 
 * Usage

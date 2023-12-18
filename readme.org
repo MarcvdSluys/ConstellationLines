@@ -22,9 +22,11 @@ multiple data lines in this file.
 
    
 * Copyright and citation
-Copyright (c) 2005-2020, Marc van der Sluys, [[http://hemel.waarnemen.com][hemel.waarnemen.com]].
+Copyright (c) 2005-2023, Marc van der Sluys, [[http://hemel.waarnemen.com][hemel.waarnemen.com]].
 
-[[file:pics/doi-10.5281-zenodo-10397197.png]]
+DOI: [[https://zenodo.org/doi/10.5281/zenodo.10397192][10.5281.zenodo.10397192]]
+
+[[https://zenodo.org/doi/10.5281/zenodo.10397192][file:pics/doi-10.5281-zenodo-10397192.png]]
 
 
 * Licence

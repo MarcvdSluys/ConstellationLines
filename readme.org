@@ -1,7 +1,7 @@
 #+title: Constellation lines
 
 * Introduction
-The file [[ConstellationLines.dat]] contains lists of stars from the [[https://cdsarc.unistra.fr/viz-bin/cat/V/50][Bright Star Catalogue]] (BSC, 5th Revised
+The file [[ConstellationLines.dat]] contains lists of stars from the [[https://cdsarc.u-strasbg.fr/viz-bin/Cat?V/50][Bright Star Catalogue]] (BSC, 5th Revised
 Ed.; Preliminary Version, 1991) that can be connected in order to draw the basic constellations of our night
 sky.  The file was originally created in early 2005, for what was to become the Dutch/Flemish
 popular-astronomy website [[http://hemel.waarnemen.com][hemel.waarnemen.com]].  Four static example maps can be found on that website (with

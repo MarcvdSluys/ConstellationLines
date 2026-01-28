@@ -50,3 +50,4 @@ licence.
 * Usage
 + [[http://tabletopwhale.com/2019/07/15/the-western-constellations.html][The Western Constellations]], by Eleanor Lutz (2019)
 + [[https://explore-platform.eu/articles/create-your-own-sky-map,-find-the-weirdest-stars-and-explore-the-surface-of-the-moon-with-the-explore-astronomy-toolkit][EXPLORE toolkit]] (EU Horizon 2020 project, 2023)
++ [[https://github.com/AntSmith60/almanac][ALMANAC]] - a sky exploration app (2025)

@@ -1,7 +1,7 @@
 # ConstellationLines.dat: lists of BSC stars to connect in order to draw the constellations.
-# Licence: Creative commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0 - https://creativecommons.org/licenses/by-sa/4.0/)
+# Licence: Creative commons Attribution 4.0 International (CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/)
 # Source and documentation: https://github.com/MarcvdSluys/ConstellationLines
-# Copyright (c) 2005-2023, Marc van der Sluys - https://hemel.waarnemen.com
+# Copyright (c) 2005-2026, Marc van der Sluys - https://hemel.waarnemen.com
 
 And  20 8961 8976 8965 8762 8965   68  165   15  165  163  215  163  165  337  603  337  464  337  269  226
 Ant   4 4273 4104 3871 3765

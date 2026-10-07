@@ -33,7 +33,7 @@ space-separated, and can be read without formatting statements.
 + sXX :: BSC numbers for those stars (1-9110; rest of the columns: XX=01-31); empty if unused.
 
 * Copyright and citation
-Copyright (c) 2005-2023, Marc van der Sluys, [[http://hemel.waarnemen.com][hemel.waarnemen.com]].
+Copyright (c) 2005-2026, Marc van der Sluys, [[http://hemel.waarnemen.com][hemel.waarnemen.com]].
 
 DOI: [[https://zenodo.org/doi/10.5281/zenodo.10397192][10.5281.zenodo.10397192]]
 
